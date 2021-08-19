@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://iut.ac.ir/">isfahan university of technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: aliysefian](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: aliysefian](https://img.shields.io/twitter/follow/aliysefian?style=social)](https://twitter.com/aliysefian)
 [![Linkedin: aliysefian](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/aliysefian/)
 [![GitHub aliysefian](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aliysefian)
 
