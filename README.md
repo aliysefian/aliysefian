@@ -1,10 +1,10 @@
 <h2> Hi, I'm Ali Yousefian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://iut.ac.ir/">isfahan university of technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://iut.ac.ir/">Isfahan University of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: aliysefian](https://img.shields.io/twitter/follow/aliysefian?style=social)](https://twitter.com/aliysefian)
-[![Linkedin: aliysefian](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/aliysefian/)
+[![Linkedin: aliysefian](https://img.shields.io/badge/-aliysefian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/aliysefian/)
 [![GitHub aliysefian](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aliysefian)
 
 
