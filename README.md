@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ali Yousefian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230">
+<img align='right' src="#" width="230">
 <p><em>Software Enginner at <a href="https://iut.ac.ir/">Isfahan University of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
