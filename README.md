@@ -23,9 +23,12 @@ const AliYousefian = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-[![aliysefian](http://github-readme-streak-stats.herokuapp.com?user=aliysefian&theme=shades-of-purple)](https://git.io/streak-stats)
+![aliysefian](https://github-readme-stats.vercel.app/api?username=aliysefian&show_icons=true&theme=shades-of-purple)
 	
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliysefian&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
 ---
 - 🔭 I’m currently working on ... Freelancers
 - 🌱 I’m currently learning ... Spark and MongoDb
